@@ -59,7 +59,7 @@ Add featured image in your sidebar easily, responsive and hover animation.
 1. Upload 'responsive-featured-image-widget' folder to the '/wp-content/plugins/' directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to Appearance > Widgets > Responsive Featured Image.
-4. Drag and drop "Featured Image" widget and open it and enter image link.
+4. Drag and drop "Responsive Featured Image" widget and open it and enter image link.
 5. Enjoy.
 
 == Frequently Asked Questions ==
