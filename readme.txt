@@ -20,6 +20,7 @@ Add featured image in your sidebar easily, responsive and hover animation.
 
 * Responsive image.
 * CSS3 Animation.
+* Compatible with any lightbox.
 * Easy.
 
 ### Live Demo
