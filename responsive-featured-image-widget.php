@@ -3,7 +3,7 @@
 Plugin Name: Responsive Featured Image Widget
 Plugin URI: http://qass.im/my-plugins/
 Description: Add featured image in your sidebar easily, responsive and hover animation.
-Version: 1.0.0
+Version: 1.0.1
 Author: Qassim Hassan
 Author URI: http://qass.im/
 License: GPLv2 or later
@@ -116,7 +116,6 @@ function QassimFeaturedImageWidget_CSS(){
 			}
 
 			.qassim-fiw-content:hover img{
-				opacity:0.7;
 				transform:scale(1.3);
 				-webkit-transform:scale(1.3);
 				-o-transform:scale(1.3);
