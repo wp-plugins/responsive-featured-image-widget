@@ -25,7 +25,7 @@ Add featured image in your sidebar easily, responsive and hover animation.
 
 ### Live Demo
 
-* [http://qass.im/my-articles/](http://qass.im/my-articles/)
+* [http://qass.im/my-plugins/](http://qass.im/my-plugins/)
 
 ### Rate The Plugin
 
