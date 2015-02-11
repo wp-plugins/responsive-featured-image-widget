@@ -3,7 +3,7 @@
 Plugin Name: Responsive Featured Image Widget
 Plugin URI: http://qass.im/my-plugins/
 Description: Add featured image in your sidebar easily, responsive and hover animation.
-Version: 1.0.1
+Version: 1.0.2
 Author: Qassim Hassan
 Author URI: http://qass.im/
 License: GPLv2 or later
@@ -35,9 +35,6 @@ class QassimFeaturedImageWidget extends WP_Widget {
 	function widget( $args, $instance ) {
 		$title = apply_filters('widget_title', esc_attr($instance['title']));
 		$image_link = $instance['image_link'];
-		if( empty($title) ){
-			$title = 'Featured Image';
-		}
 		?>
 			<?php echo $args['before_widget'] . $args['before_title'] . $title . $args['after_title']; ?>
                 <?php
