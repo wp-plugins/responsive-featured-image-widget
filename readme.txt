@@ -12,7 +12,7 @@ Add featured image in your sidebar easily, responsive and hover animation.
 
 == Description ==
 
-### Responsive Featured Image Widget   
+### Responsive Featured Image Widget    
 
 Add featured image in your sidebar easily, responsive and hover animation.
 
