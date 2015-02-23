@@ -1,15 +1,15 @@
 <?php
 /*
 Plugin Name: Responsive Featured Image Widget
-Plugin URI: http://qass.im/my-plugins/
+Plugin URI: http://wp-time.com
 Description: Add featured image in your sidebar easily, responsive and hover animation.
-Version: 1.0.2
+Version: 1.0.3
 Author: Qassim Hassan
-Author URI: http://qass.im/
+Author URI: http://qass.im
 License: GPLv2 or later
 */
 
-/*  Copyright 2014  Qassim Hassan  (email : qassim.pay@gmail.com)
+/*  Copyright 2015  Qassim Hassan  (email : qassim.pay@gmail.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
@@ -94,30 +94,30 @@ function QassimFeaturedImageWidget_CSS(){
 	?>
     	<style type="text/css">
 			.qassim-fiw-content{
-				overflow:hidden;
+				overflow:hidden !important;
 			}
 			.qassim-fiw-content a{
-				display:block;
+				display:block !important;
 				text-decoration:none !important;
 				border:none !important;
 			}
 
 			.qassim-fiw-content img{
-				transition:ease-in-out 1s;
-				-moz-transition:ease-in-out 1s;
-				-o-transition:ease-in-out 1s;
-				-webkit-transition:ease-in-out 1s;
+				transition:ease-in-out 1s !important;
+				-moz-transition:ease-in-out 1s !important;
+				-o-transition:ease-in-out 1s !important;
+				-webkit-transition:ease-in-out 1s !important;
 				width:100% !important;
 				max-width:100% !important;
 				height:auto !important;
 			}
 
 			.qassim-fiw-content:hover img{
-				transform:scale(1.3);
-				-webkit-transform:scale(1.3);
-				-o-transform:scale(1.3);
-				-moz-transform:scale(1.3);
-				-ms-transform:scale(1.3);
+				transform:scale(1.3) !important;
+				-webkit-transform:scale(1.3) !important;
+				-o-transform:scale(1.3) !important;
+				-moz-transform:scale(1.3) !important;
+				-ms-transform:scale(1.3) !important;
 			}
 		</style>
     <?php
