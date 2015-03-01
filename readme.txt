@@ -12,7 +12,7 @@ Add featured image in your sidebar easily, responsive and hover animation.
 
 == Description ==
 
-### Responsive Featured Image Widget                         
+### Responsive Featured Image Widget                          
 
 Add featured image in your sidebar easily, responsive and hover animation.
 
@@ -31,9 +31,9 @@ Add featured image in your sidebar easily, responsive and hover animation.
 
 * [Please rate Featured Image Widget plugin](https://wordpress.org/support/view/plugin-reviews/responsive-featured-image-widget#postform)
 
-### Download Zaman WordPress Blog Theme
+### Download Davinci WordPress Blog Theme
 
-* [Responsive and Retina WordPress blog Theme with a lot of features](http://j.mp/zaman_theme)
+* [Responsive and Retina WordPress blog Theme with a lot of features](http://wp-time.com/a-premium-wordpress-blog-themes/)
 
 ### Beautiful WordPress Themes
 
