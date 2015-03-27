@@ -1,6 +1,6 @@
 ﻿=== Responsive Featured Image Widget ===
 Contributors: Qassim.Dev
-Donate link: http://j.mp/plugins_donation
+Donate link: http://j.mp/WPTime_donations
 Tags: image widget, responsive, responsive widget, responsive image, featured, featured image, featured image widget, featured widget, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 3.0
 Tested up to: 4.1.1
@@ -12,7 +12,7 @@ Add featured image in your sidebar easily, responsive and hover animation.
 
 == Description ==
 
-### Responsive Featured Image Widget                                                           
+### Responsive Featured Image Widget             
 
 Add featured image in your sidebar easily, responsive and hover animation.
 
