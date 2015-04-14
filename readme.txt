@@ -25,7 +25,7 @@ Add featured image in your sidebar easily, responsive and hover animation.
 
 ### Live Demo
 
-* [http://wp-time.com/](http://wp-time.com/)
+* [http://wp-time.com/responsive-featured-image-widget/](http://wp-time.com/responsive-featured-image-widget/)
 
 ### Rate The Plugin
 
