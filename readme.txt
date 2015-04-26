@@ -3,8 +3,8 @@ Contributors: Qassim.Dev
 Donate link: http://j.mp/WPTime_donations
 Tags: image widget, responsive, responsive widget, responsive image, featured, featured image, featured image widget, featured widget, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 3.0
-Tested up to: 4.1.2
-Stable tag: 1.0.4
+Tested up to: 4.2
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,17 +67,20 @@ Add featured image in your sidebar easily, responsive and hover animation.
 
 == Changelog ==
 
-= 1.0.0 =
-First version.
+= 1.0 =
+* First version.
 
-= 1.0.1 =
-Opacity deleted.
+= 1.1 =
+* Opacity deleted.
 
-= 1.0.2 =
-Remove default title.
+= 1.2 =
+* Remove default title.
 
-= 1.0.3 =
-!important CSS added.
+= 1.3 =
+* !important CSS added.
 
-= 1.0.4 =
-WP Time Support.
+= 1.4 =
+* WP Time Support.
+
+= 1.5 =
+* Fixing some problems.
