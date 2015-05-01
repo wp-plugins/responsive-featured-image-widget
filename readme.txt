@@ -88,4 +88,4 @@ Add featured image in your sidebar easily, responsive and hover animation.
 * Fixing some problems.
 
 = 1.6 =
-* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
+* Support WordPress latest version.
