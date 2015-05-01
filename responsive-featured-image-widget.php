@@ -3,7 +3,7 @@
 Plugin Name: Responsive Featured Image Widget
 Plugin URI: http://wp-time.com/responsive-featured-image-widget/
 Description: Add featured image in your sidebar easily, responsive and hover animation.
-Version: 1.5
+Version: 1.6
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later
